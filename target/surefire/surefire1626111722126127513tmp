@@ -1,0 +1,22 @@
+#surefire
+#Fri May 18 18:37:17 COT 2018
+testClassesDirectory=E\:\\Documents\\NetBeansProjects\\PantallaLCD\\target\\test-classes
+forkMode=once
+classPathUrl.3=C\:\\Users\\JEAV\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.2=C\:\\Users\\JEAV\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+useManifestOnlyJar=true
+classPathUrl.1=E\:\\Documents\\NetBeansProjects\\PantallaLCD\\target\\classes
+classPathUrl.0=E\:\\Documents\\NetBeansProjects\\PantallaLCD\\target\\test-classes
+reportsDirectory=E\:\\Documents\\NetBeansProjects\\PantallaLCD\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=E\:\\Documents\\NetBeansProjects\\PantallaLCD\\src\\test\\java
+requestedTest=ImpresorLCDTest
+surefireClassPathUrl.1=C\:\\Users\\JEAV\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\JEAV\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+isTrimStackTrace=true
+enableAssertions=true
+failIfNoTests=true
+includes0=**/ImpresorLCDTest.java
+childDelegation=false
